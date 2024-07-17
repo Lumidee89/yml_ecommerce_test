@@ -1,0 +1,4 @@
+enum Product {
+  description,
+  name,
+}
